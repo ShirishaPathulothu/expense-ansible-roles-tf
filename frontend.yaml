@@ -1,0 +1,6 @@
+- name: expense roles frontend configure
+  hosts: frontend
+  become: yes
+  roles:
+  - frontend
+  
