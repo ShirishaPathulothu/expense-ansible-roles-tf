@@ -1,3 +1,3 @@
-BACKEND_HOST: backend.dev12.shop
+BACKEND_HOST: backend.app-dev.dev12.shop
 app_location: /usr/share/nginx/html
 component: frontend
